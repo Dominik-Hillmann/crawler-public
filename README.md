@@ -1,4 +1,4 @@
-# artstation-crawler
+# crawler-public
 A crawler retrieving pictures from a certain web page using their search terms.
 
 ## Note
